@@ -1,0 +1,861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"fi",
+				"filepath\tstring ν"
+			],
+			[
+				"r",
+				"Remove\terror ƒ"
+			],
+			[
+				"gt",
+				"gBitmap\tsysconf.ServerType ν"
+			],
+			[
+				"dbm",
+				"dbModel\t*orm.DBModel ν"
+			],
+			[
+				"p",
+				"Parameter\tstring ν"
+			],
+			[
+				"ga",
+				"gData\tsysconf.DbType ν"
+			],
+			[
+				"da",
+				"gData\tsysconf.DbType ν"
+			],
+			[
+				"e",
+				"Exec\tresult sql.Result, err error ƒ"
+			],
+			[
+				"re",
+				"ReadBytes\t[]byte, error ƒ"
+			],
+			[
+				"db",
+				"dbGencvs\t ƒ"
+			],
+			[
+				"get",
+				"GetQueryItem\tstring ƒ"
+			],
+			[
+				"sys",
+				"sysRep\t*sysconf.SysconfRep ν"
+			],
+			[
+				"bit",
+				"BitmapUpdateReq\tstruct ʈ"
+			],
+			[
+				"bi",
+				"BitmapUpdateRep\tstruct ʈ"
+			],
+			[
+				"conn",
+				"connectDb\terror ƒ"
+			],
+			[
+				"ge",
+				"getGlobalfValue\tGlobalConfType ƒ"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"in",
+				"Int32\t*int32 ƒ"
+			],
+			[
+				"pro",
+				"protobuf\t[]byte ν"
+			],
+			[
+				"se",
+				"SendFrame\terror ƒ"
+			],
+			[
+				"sy",
+				"SysconfReq\tstruct ʈ"
+			],
+			[
+				"sysre",
+				"sysReq\t*SysconfReq ν"
+			],
+			[
+				"Get",
+				"GetSysconfValue\tSysConfType ƒ"
+			],
+			[
+				"pus",
+				"NewPush\t*goczmq.Sock, error ƒ"
+			],
+			[
+				"sl",
+				"Sleep\t ƒ"
+			],
+			[
+				"fun",
+				"func\tFunction"
+			],
+			[
+				"rev",
+				"RecvMessage\t[][]byte, error ƒ"
+			],
+			[
+				"b",
+				"Bind\tint, error ƒ"
+			],
+			[
+				"fuc",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"z",
+				"ZMQVersionMinor\t Ɩ"
+			],
+			[
+				"build",
+				"build_sysconf"
+			],
+			[
+				"con",
+				"configPath\tstring ν"
+			],
+			[
+				"ex",
+				"execPath\tstring ν"
+			],
+			[
+				"sp",
+				"Sprintln\tstring ƒ"
+			],
+			[
+				"co",
+				"connStr\tstring ν"
+			],
+			[
+				"fu",
+				"func (*DBModel)\tfunc (...) {...} ʂ"
+			],
+			[
+				"Mod",
+				"dbModel\t ν"
+			],
+			[
+				"func",
+				"func (*Model)\tfunc (...) {...} ʂ"
+			],
+			[
+				"imp",
+				"import\timport (...) ʂ"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"or",
+				"origfile"
+			],
+			[
+				"t",
+				"targeturl"
+			],
+			[
+				"NO",
+				"NO_FILE"
+			],
+			[
+				"no",
+				"NO_FILE"
+			],
+			[
+				"send",
+				"sendmail"
+			],
+			[
+				"ori",
+				"orighash"
+			],
+			[
+				"ta",
+				"targetfile"
+			],
+			[
+				"md",
+				"md5sum"
+			],
+			[
+				"a",
+				"as_string"
+			],
+			[
+				"Send",
+				"sendmail"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/bitcoind.cpp",
+			"settings":
+			{
+				"buffer_size": 5879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/primitives/transaction.h",
+			"settings":
+			{
+				"buffer_size": 12038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/bench/bench.cpp",
+			"settings":
+			{
+				"buffer_size": 4492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/chain.cpp",
+			"settings":
+			{
+				"buffer_size": 5580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/key.cpp",
+			"settings":
+			{
+				"buffer_size": 13680,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: instak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: RE",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: REM",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lewis/CoinMiner/bitcoin",
+		"/Users/Lewis/CoinMiner/bitcoin/src"
+	],
+	"file_history":
+	[
+		"/Users/Lewis/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/Lewis/1.json",
+		"/Users/Lewis/Library/Ethereum/keystore/UTC--2018-01-05T03-07-35.384844000Z--f120b578bb30f4b3de766d0b97a31af7838b5374",
+		"/Users/Lewis/hh.js",
+		"/Users/Lewis/WifiResearch/wifite/wifite.py",
+		"/Users/Lewis/WifiResearch/WifiMon/quotes.db3",
+		"/Users/Lewis/Documents/《麻衣神算子》（校对版全本）作者：骑马钓鱼.txt",
+		"/Users/Lewis/1.txt",
+		"/Users/Lewis/1",
+		"/Users/Lewis/WifiResearch/test.py",
+		"/Users/Lewis/Downloads/1-6 Keras/wordembedding.py",
+		"/Users/Lewis/Downloads/1-6 Keras/roc.py",
+		"/Users/Lewis/Downloads/1-6 Keras/onehot.py",
+		"/Users/Lewis/Downloads/1-6 Keras/oneembedding.py",
+		"/Users/Lewis/Downloads/1-6 Keras/pos.xls",
+		"/Users/Lewis/Downloads/1-6 Keras/neg.xls",
+		"/Users/Lewis/datamin/chapter6/demo/code/10-3_neural_network.py",
+		"/Users/Lewis/Desktop/与空姐在飞机里做爱.txt",
+		"/Users/Lewis/Downloads/decision-tree.py",
+		"/Users/Lewis/datamin/chenyuanbo/chen_cpu.py",
+		"/Users/Lewis/datamin/chenyuanbo/chen_gpu.py",
+		"/Users/Lewis/Downloads/ppv_2/stock/stock/stock2csvALL.py",
+		"/Users/Lewis/Downloads/ppv_2/stock/pachong.py",
+		"/Users/Lewis/Documents/N7_tools20120817/fastboot/unlock.bat",
+		"/Users/Lewis/机器学习材料/Matlab R2016a Crack/Matlab_R2016a_maci64.lic",
+		"/Users/Lewis/Documents/25745.txt",
+		"/Users/Lewis/hadoop/sample6.txt",
+		"/Users/Lewis/Documents/Weather/src/org/apache/hadoop/example/MaxTemperature.java",
+		"/Users/Lewis/hadoop/sample/sm.txt",
+		"/Users/Lewis/hadoop/sample/033790-99999-1929.op.gz",
+		"/Users/Lewis/hadoop/sample/990061-99999-1929.op",
+		"/Users/Lewis/hadoop/getncdc.py",
+		"/Users/Lewis/600202.csv",
+		"/Users/Lewis/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688851608270650/Cache/File/4D/Tools/signfile53.bat",
+		"/Users/Lewis/hadoop/scrapy/test/test/spiders/my_spider.py",
+		"/Users/Lewis/cacc.sh",
+		"/Users/Lewis/setup.csv",
+		"/Users/Lewis/100guid.txt",
+		"/Users/Lewis/result.txt",
+		"/Users/Lewis/Downloads/日志格式.txt",
+		"/Users/Lewis/Desktop/DRProcess.py",
+		"/Users/Lewis/Desktop/DR2017-05-11.log",
+		"/Users/Lewis/Downloads/aa.log",
+		"/Users/Lewis/Downloads/新建文本文档 (2)(1).txt",
+		"/Users/Lewis/Downloads/新建文本文档 (2).txt.dump",
+		"/Users/Lewis/Downloads/新建文本文档 (2).txt",
+		"/Users/Lewis/Downloads/virt-what-1.15/virt-what-ia64-xen-rdtsc-test.c",
+		"/Users/Lewis/Downloads/virt-what-1.15/virt-what-cpuid-helper.c",
+		"/Users/Lewis/Downloads/GeoLite2-City-CSV_20170502/GeoLite2-City-Locations-zh-CN.csv",
+		"/Users/Lewis/Downloads/CheckEnv.cpp",
+		"/Users/Lewis/Template TCP Status.xml",
+		"/Users/Lewis/Template Ctrl Server Info.xml",
+		"/Users/Lewis/host.access.log",
+		"/Users/Lewis/mu.list",
+		"/Users/Lewis/MyCode/GoSrc/src/git.tya.company/clivebi/wlsoc.go/README.md",
+		"/Users/Lewis/MyCode/GoSrc/src/git.tya.company/clivebi/wlsoc.go/commit/协议.txt",
+		"/Users/Lewis/MyCode/GoSrc/src/git.tya.company/clivebi/wlsoc.go/README.html",
+		"/Users/Lewis/Library/Application Support/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/Users/Lewis/Library/Application Support/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/Users/Lewis/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Lewis/bl.sql",
+		"/Users/Lewis/MyCode/HandleCVS.py",
+		"/Users/Lewis/Downloads/2017-03-09-08-24-52",
+		"/Users/Lewis/Downloads/2017-03-09-08-24-52.log",
+		"/Users/Lewis/Downloads/bad/2017-03-09-07-12-42.log",
+		"/Users/Lewis/aaa.log",
+		"/Users/Lewis/radiusd.conf",
+		"/Users/Lewis/MyCode/mod_auth_radius-1.5.8/mod_auth_radius.c",
+		"/Users/Lewis/MyCode/pam_radius-1.4.0/README.rst",
+		"/Users/Lewis/MyCode/pam_radius-1.4.0/src/radius.h",
+		"/Users/Lewis/MyCode/pam_radius-1.4.0/src/pam_radius_auth.h",
+		"/Users/Lewis/MyCode/mod_auth_radius-1.5.8/mod_auth_radius-2.0.c",
+		"/Users/Lewis/MyCode/pam_radius-1.4.0/src/pam_radius_auth.c",
+		"/Users/Lewis/MyCode/pam_radius-1.4.0/index.html",
+		"/Users/Lewis/MyCode/Py/Hello.py",
+		"/Users/Lewis/hello.js",
+		"/Users/Lewis/Downloads/ieeeoui.csv",
+		"/Users/Lewis/Downloads/wifidevi.csv",
+		"/Users/Lewis/Downloads/2.csv",
+		"/Users/Lewis/Downloads/1.csv",
+		"/Users/Lewis/Downloads/export.csv",
+		"/Users/Lewis/Downloads/1(1).csv",
+		"/Users/Lewis/Downloads/3.csv",
+		"/Users/Lewis/Desktop/result.csv",
+		"/Users/Lewis/MyCode/ParseCVS.py",
+		"/Users/Lewis/Downloads/oui.txt",
+		"/Users/Lewis/Downloads/ip/GlobalIp-20170203-284338.txt",
+		"/Users/Lewis/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/Lewis/Documents/17monipdb/17monipdb.dat",
+		"/Users/Lewis/Documents/17monipdb/readme.txt",
+		"/Users/Lewis/portable_wifi.sql",
+		"/Users/Lewis/cp.sh",
+		"/Users/Lewis/Downloads/Template TCP Status.xml",
+		"/Users/Lewis/Downloads/http___s3.51cto.com_wyfs02_M02_54_5E_wKiom1SALyzgekxRAABlV1SqDf4589.xml",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/zmq/client",
+		"/Users/Lewis/Downloads/79a6127c-dd40-46c8-8327-414ef3bc9e2e(1).79a6127c-dd40-46c8-8327-414ef3bc9e2e(1)",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/config.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/build.sh",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/server.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/offlineProcess/server.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/bin/sql/gencvs.sql",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/zmq/zmq.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/proto/sysconf.proto",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/type.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/bin/config/sysconf.json",
+		"/Users/Lewis/Downloads/PutFile.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/proto/wlsoc.proto",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/zmq/client.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/orm/orm_test.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/orm/orm.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/offlineProcess/processDb.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/main/offlineProcessServer.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/check.go",
+		"/Users/Lewis/Downloads/internalprotocol(2).proto",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/offlineProcess/type.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/offlineProcess/config.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/bin/config/global.json",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/main/sysconfServer.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/bin/sql/merge.sql",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/config/sysconf.json",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/config/global.json",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/sysconf.pb.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/proto/sysconf.pb.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/sysconf/sysconf_test.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/proto/wlsocprotocol.proto",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/commit/commit_server.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/zmq/server.go",
+		"/Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/example/example.pb.go"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"COutPoint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/bitcoind.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								566
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 21,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/primitives/transaction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/bench/bench.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3044,
+								3044
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 96,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1455.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/chain.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 0,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/key.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13012,
+								13012
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 322,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/Lewis/MyCode/GoSrc":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/Lewis/MyCode/GoSrc/src/github.com/lewislau86/WifiCloudCheck/offlineProcess":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/Lewis/MyCode/Py":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/Lewis/MyCode/WifiCloudExpertise":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 102.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 100.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 100.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "bitcoin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ti",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"insert"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
